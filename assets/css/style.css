@@ -3,9 +3,8 @@ body {
     font-size: 18px;
     line-height: 25px;
     color: #777;
-    background-color: #9f9485;
     background-image:url(/assets/images/background.jpg);
-    background-repeat: no-repeat;
+    
   }
   
   * {
