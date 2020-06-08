@@ -1,9 +1,8 @@
-# portfolio
-Creating Portfolio Using Bootstrap and Media queries
-# Updated-Portfolio
-
-See the deployed website here: 
-
+## Portfolio
+This homework is required to create a portfolio which explain everything about me. Therefore, I have made this portfolio using HTML, CSS and Bootstrap.
+ including Bootstrap and Media queries.
+# deployed website here: 
+https://prithvipsingh.github.io/portfolio/index.html
 
 # Project Description
 
@@ -11,4 +10,4 @@ This project is a website which displays some information about me, as well as l
 
 The project is comprised of 3 separate files, and the navbar at the top of the screen allows for navigation among the different files.
 
-![Screenshot of portfolio]
+![Screenshot of portfolio](/assets/images/portfolio.png)
